@@ -3,7 +3,21 @@
   border-style: solid;
   border-color: black;
 }
-
 .panel-danger > .panel-heading {
   background-color: #c2cad6;
+}
+.AT-AT {
+  color: #6c727a;
+  font-weight: bold;
+}
+.img {
+  float: right;
+}
+.panel-info > .panel-heading {
+  font-weight: bold;
+  color: black;
+}
+.panel-success > .panel-heading {
+  font-weight: bold;
+  color: black;
 }
