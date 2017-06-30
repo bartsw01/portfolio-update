@@ -1,0 +1,9 @@
+.panel-danger {
+  background-color: #c2cad6;
+  border-style: solid;
+  border-color: black;
+}
+
+.panel-danger > .panel-heading {
+  background-color: #c2cad6;
+}
