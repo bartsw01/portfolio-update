@@ -1,6 +1,6 @@
 # _Programming Portfolio Page for Bart Webber_
 
-#### _Webpage for display programming Projects, June 30, 2017_
+#### _Webpage for displaying programming Projects, June 30, 2017_
 
 #### By _**Bart Webber**_
 
@@ -8,7 +8,11 @@
 
 _This webpage is used to display the programming projects that I have completed._
 
+## Setup/Installation Requirements
 
+* _https://github.com/bartsw01/portfolio-update_
+
+_Go to my GitHub site above to view the webpage_
 
 ## Support and contact details
 
