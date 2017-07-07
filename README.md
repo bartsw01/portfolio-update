@@ -10,9 +10,13 @@ _This webpage is used to display the programming projects that I have completed.
 
 ## Setup/Installation Requirements
 
-* _https://github.com/bartsw01/portfolio-update_
+* _https://bartsw01.github.io/portfolio-update/_
 
-_Go to my GitHub site above to view the webpage_
+_Go to my GitHub site above to view the gh-pages link_
+
+* _https://github.com/bartsw01/portfolio-update.git_
+
+_Go to my GitHub site above to view the repository site_
 
 ## Support and contact details
 
